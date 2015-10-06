@@ -1,7 +1,6 @@
 body {
 	background-color: gray
-}
-
-h1, p {
 	color: purple;
+	font-family:helvetica, arial, sans-serif;
+	font-size:16px;
 }
