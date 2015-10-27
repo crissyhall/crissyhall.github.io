@@ -1,5 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Istok+Web);
+@import url(https://fonts.googleapis.com/css?family=Noto+Serif);
+@import url(https://fonts.googleapis.com/css?family=Oxygen);
+
 body{
-	font-family: Helvetica, sans-serif;
+	font-family: 'Noto Serif', serif;
 }
 
 header{
@@ -11,7 +15,8 @@ img{
 }
 
 nav{
-
+	text-align: right;
+	font-family: 'Noto Serif', serif;
 }
 
 a{
@@ -19,16 +24,21 @@ a{
 }
 
 h1{
+	font-family: 'Oxygen', sans-serif;
  	text-align: center;
 	font-size: 48px
 }
 
 main{
-
+	padding: 30px 0;
 }
 
 p{
   
+}
+
+div{
+	padding: 0 150px
 }
 
 figure{
@@ -36,7 +46,10 @@ figure{
 }
 
 footer{
-
+	text-align: center;
+	background: #000;
+	color: #fff;
+	padding: 20px;
 }
 
 h2{
@@ -52,7 +65,12 @@ small{
 }
 
 #slogan{
+
+  font-family: 'Istok Web', sans-serif;
   text-align: center;
+  background: #000;
+  color: #fff;
+  padding: 20px;
   
 }
 
