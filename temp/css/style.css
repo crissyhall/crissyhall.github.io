@@ -7,6 +7,9 @@ body{
 }
 
 header{
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
 
 }
 
@@ -15,6 +18,9 @@ img{
 }
 
 nav{
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
 	text-align: right;
 	font-family: 'Noto Serif', serif;
 }
@@ -32,7 +38,13 @@ h1{
 }
 
 main{
-	padding: 30px 0;
+    padding: 20px;
+}
+
+section{
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 p{
@@ -40,7 +52,10 @@ p{
 }
 
 div{
-	padding: 0 150px
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+
 }
 
 figure{
@@ -48,10 +63,11 @@ figure{
 }
 
 footer{
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
 	text-align: center;
-	background: #000;
 	color: #fff;
-	padding: 20px;
 }
 
 h2{
@@ -76,6 +92,14 @@ small{
   
 }
 
+#main_image{
+
+}
+
 #homepage_main_image{
 
+}
+
+#intro{
+	
 }
