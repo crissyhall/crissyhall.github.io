@@ -4,13 +4,12 @@
 
 body{
 	font-family: 'Noto Serif', serif;
-    font-size: 16px
 }
 
 header{
 	background-color: #FFED74;
-    border: 1% black solid;
-    padding: 1em;
+    border: 1px black solid;
+    padding: 20px;
 
 }
 
@@ -20,8 +19,8 @@ img{
 
 nav{
 	background-color: #E8C66A;
-    border: 1% black solid;
-    padding: 1em;
+    border: 1px black solid;
+    padding: 15px;
 	float: right;
 	font-family: 'Noto Serif', serif;
 }
@@ -29,26 +28,26 @@ nav{
 a{
 	text-decoration: none;
 	color: #000;
-	padding: 1em;
+	padding: 20px;
 }
 
 h1{
 	background-color: #FFE2C8;
-    border: 1% black solid;
-    padding: 1.5em;
+    border: 1px black solid;
+    padding: 20px;
 	font-family: 'Oxygen', sans-serif;
  	text-align: center;
-	font-size: 3em
+	font-size: 48px
 }
 
 main{
-    padding: 1em;
+    padding: 20px;
 }
 
 section{
 	background-color: #FFE2B8;
-    border: 1% black solid;
-    padding: 1.5em;
+    border: 1px black solid;
+    padding: 20px;
 }
 
 p{
@@ -57,8 +56,8 @@ p{
 
 div{
 	background-color: #FFE2B8;
-    border: 1% black solid;
-    padding: 1.5em;
+    border: 1px black solid;
+    padding: 20px;
 
 }
 
@@ -68,8 +67,8 @@ figure{
 
 footer{
 	background-color: #FF957E;
-    border: 1% black solid;
-    padding: 1.5em;
+    border: 1px black solid;
+    padding: 20px;
 	text-align: center;
 	color: #fff;
 }
@@ -93,29 +92,29 @@ small{
   text-align: center;
   background: #000;
   color: #fff;
-  padding: 1em;
+  padding: 20px;
   
 }
 
 #two_column: {
 	background-color: #FFB7CF;
-    border: 1% black solid;
-    padding: 1%;
+    border: 1px black solid;
+    padding: 20px;
    
 }
 
 #left{
 	background-color: violet;
-    border: 1% black solid;
-    padding: 1%;
+    border: 1px black solid;
+    padding: 20px;
     float: left;
     width: 30%;
 }
 
 #right{
 	background-color: pink;
-    border: 1% black solid;
-    padding: 1%;
+    border: 1px black solid;
+    padding: 20px;
     float: right;   
     width: 62%;
 }
